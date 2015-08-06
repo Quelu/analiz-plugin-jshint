@@ -1,0 +1,16 @@
+{
+  "name": "analiz-plugin-jshint",
+  "version": "0.0.1",
+  "description": "Analiz module to JSHint files",
+  "main": "lib/index.js",
+  "keywords": [
+    "analiz",
+    "template",
+    "jshint"
+  ],
+  "author": "Quelu <quelumatagne@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "jshint": "^2.8.0"
+  }
+}
