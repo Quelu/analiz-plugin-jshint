@@ -1,6 +1,6 @@
 {
   "name": "analiz-plugin-jshint",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Analiz module to JSHint files",
   "main": "lib/index.js",
   "keywords": [
